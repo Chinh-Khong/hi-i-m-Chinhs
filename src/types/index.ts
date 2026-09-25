@@ -92,4 +92,5 @@ export interface AiToolItem {
   capabilities: string[];
   badgeColor: string;
   glowColor: string;
+  isAgentic?: boolean;
 }

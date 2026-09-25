@@ -2,6 +2,20 @@ import { AiToolItem } from "@/types";
 
 export const aiToolsData: AiToolItem[] = [
   {
+    id: "antigravity",
+    name: "Antigravity",
+    tagline: "Autonomous Agentic IDE & Workflows",
+    purpose: "Autonomous multi-step task execution, subagent orchestration, live terminal debugging, and browser-in-the-loop verification.",
+    capabilities: [
+      "Autonomous agentic workflows with subagent task delegation",
+      "Multi-file refactoring, terminal execution & deep codebase reasoning",
+      "Direct browser validation, live visual verification & artifact generation"
+    ],
+    badgeColor: "bg-fuchsia-500/10 text-fuchsia-300 border-fuchsia-500/30",
+    glowColor: "rgba(217, 70, 239, 0.35)",
+    isAgentic: true
+  },
+  {
     id: "cursor",
     name: "Cursor",
     tagline: "AI-Augmented Code Editor",

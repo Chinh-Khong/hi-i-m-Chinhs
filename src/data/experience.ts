@@ -15,6 +15,7 @@ export const experiences: ExperienceItem[] = [
       "Performed rigorous functional testing, identifying, reporting, and tracking bugs to continuously improve system reliability",
       "Built responsive, accessible, and high-performance UI components using Next.js, React, TypeScript, TailwindCSS, and SCSS",
       "Developed and maintained bespoke client-facing financial service websites using Webflow with custom responsive interactions",
+      "Integrated modern AI-assisted engineering and autonomous agentic workflows (Google Antigravity, Cursor, Claude) to accelerate front-end prototyping, automate regression testing, and maintain high code quality",
       "Collaborated closely with backend developers, UI/UX designers, and QA engineers within Agile/Scrum development sprints",
       "Conducted cross-browser and cross-device testing ensuring pixel-perfect UX for international financial enterprise users"
     ],
@@ -25,6 +26,8 @@ export const experiences: ExperienceItem[] = [
       "TailwindCSS",
       "SCSS",
       "Webflow",
+      "Antigravity (AI IDE)",
+      "Cursor",
       "Postman",
       "REST APIs",
       "Git"

@@ -15,6 +15,7 @@ const navItems = [
   { label: "Skills", href: "#skills", id: "skills" },
   { label: "Projects", href: "#projects", id: "projects" },
   { label: "Journey", href: "#journey", id: "journey" },
+  { label: "AI Tools", href: "#ai-tools", id: "ai-tools" },
   { label: "Contact", href: "#contact", id: "contact" },
 ];
 
@@ -62,7 +63,7 @@ export default function Navbar({ activeSection }: NavbarProps) {
             <div className="flex items-center justify-center w-6 h-6 rounded-full bg-gradient-to-tr from-cyan-500 to-purple-600 text-white text-[11px] shadow-[0_0_10px_rgba(6,182,212,0.5)]">
               <Terminal className="w-3.5 h-3.5" />
             </div>
-            <span className="hidden sm:inline font-bold">CHINH.DEV</span>
+            <span className="hidden sm:inline font-bold">CHINHKHONG.DEV</span>
           </a>
 
           {/* Desktop Nav Items */}
@@ -129,7 +130,7 @@ export default function Navbar({ activeSection }: NavbarProps) {
             <div className="flex flex-col gap-2">
               <div className="flex items-center justify-between pb-3 border-b border-white/10 text-xs font-mono text-cyan-400">
                 <span>SYSTEM NAVIGATION</span>
-                <span className="text-slate-400">7 SECTORS</span>
+                <span className="text-slate-400">8 SECTORS</span>
               </div>
 
               {navItems.map((item) => {

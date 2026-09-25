@@ -16,10 +16,13 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Khổng Đức Chính | Frontend Developer ✦ 3D Universe Portfolio",
+  title: "ChinhKhong.dev | Frontend Developer ✦ 3D Universe Portfolio",
   description:
-    "Khổng Đức Chính — Frontend Developer at TDT Asia. Specializing in React, Next.js, TypeScript, Webflow, and enterprise fintech applications.",
+    "ChinhKhong.dev (Khổng Đức Chính) — Frontend Developer at TDT Asia. Specializing in React, Next.js, TypeScript, Webflow, and enterprise fintech applications.",
   keywords: [
+    "ChinhKhong.dev",
+    "ChinhKhong",
+    "Chinh Khong",
     "Khổng Đức Chính",
     "Khong Duc Chinh",
     "Frontend Developer",
@@ -32,16 +35,16 @@ export const metadata: Metadata = {
     "Hà Nội",
     "Vietnam"
   ],
-  authors: [{ name: "Khổng Đức Chính" }],
-  creator: "Khổng Đức Chính",
+  authors: [{ name: "Khổng Đức Chính (ChinhKhong.dev)" }],
+  creator: "ChinhKhong.dev",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://chinh-universe.dev",
-    title: "Khổng Đức Chính | Frontend Developer ✦ 3D Universe",
+    url: "https://chinhkhong.dev",
+    title: "ChinhKhong.dev | Frontend Developer ✦ 3D Universe",
     description:
-      "Explore the 3D developer universe of Khổng Đức Chính — Frontend Developer at TDT Asia.",
-    siteName: "Khổng Đức Chính's Developer Universe",
+      "Explore the 3D developer universe of ChinhKhong.dev (Khổng Đức Chính) — Frontend Developer at TDT Asia.",
+    siteName: "ChinhKhong.dev's Developer Universe",
   },
   icons: {
     icon: "/favicon.ico",

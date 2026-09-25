@@ -1,7 +1,7 @@
 import { ProfileData, StatItem } from "@/types";
 
 export const profileData: ProfileData = {
-  name: "Khổng Đức Chính",
+  name: "ChinhKhong.dev",
   fullName: "Khổng Đức Chính (Chinh Khong)",
   role: "Frontend Developer",
   titles: [
@@ -17,8 +17,8 @@ export const profileData: ProfileData = {
   education: "VTC Academy (College of Information Technology)",
   educationPeriod: "2021 – 2023 (Graduated)",
   language: "English (Intermediate)",
-  bio: "Frontend Developer with hands-on experience building fintech trading platforms, loan management systems, insurance portals, and pharmaceutical e-commerce platforms at TDT Asia. I possess a strong foundation in Next.js, React.js, HTML, CSS, JavaScript, and TypeScript, along with the ability to create modern, user-friendly interfaces and optimize user experience. Additionally, I have backend knowledge with Node.js, databases (MySQL, MongoDB), and API testing with Postman and Git.",
-  shortIntro: "Frontend Developer with hands-on experience building web applications using React, Next.js, and TypeScript. Strong foundation in modern UI/UX, API integration, and performance optimization.",
+  bio: "Frontend Developer with hands-on experience building fintech trading platforms, loan management systems, insurance portals, and pharmaceutical e-commerce platforms at TDT Asia. I possess a strong foundation in Next.js, React.js, HTML, CSS, JavaScript, and TypeScript, along with the ability to create modern, user-friendly interfaces and optimize user experience. Additionally, I actively leverage modern AI agentic workflows (Google Antigravity, Cursor) and LLMs to accelerate engineering velocity and ensure robust code quality.",
+  shortIntro: "Frontend Developer with hands-on experience building web applications using React, Next.js, and TypeScript. Actively powered by agentic AI tools like Antigravity & Cursor for high-velocity delivery.",
   email: "khongchinh757@gmail.com",
   github: "https://github.com",
   linkedin: "https://linkedin.com",

@@ -76,6 +76,9 @@ export default function Hero() {
                 {profileData.name}
               </span>
             </h1>
+            <p className="text-xs sm:text-sm font-mono text-cyan-400/90 pt-1">
+              Khổng Đức Chính (Chinh Khong)
+            </p>
           </div>
 
           {/* Animated Subtitle in Sci-Fi HUD Bracket */}

@@ -151,5 +151,16 @@ export const skillsData: SkillItem[] = [
     color: "#47a248",
     emblem: "🍃",
     description: "Document-oriented database, collections, CRUD operations, aggregation pipelines"
+  },
+  {
+    name: "Antigravity & AI",
+    level: 92,
+    levelLabel: "Agentic AI Workflow",
+    category: "tool",
+    orbitRadius: 14.2,
+    orbitSpeed: 0.10,
+    color: "#c084fc",
+    emblem: "🤖",
+    description: "Google Antigravity agentic workflows, multi-agent code orchestration, prompt engineering & automated QA"
   }
 ];

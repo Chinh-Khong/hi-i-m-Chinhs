@@ -21,7 +21,7 @@ export default function About() {
         <SectionHeading
           badge="// SECTOR 01: IDENTITY"
           title="About Me"
-          subtitle="Khổng Đức Chính — Frontend Developer at TDT Asia"
+          subtitle="ChinhKhong.dev (Khổng Đức Chính) — Frontend Developer at TDT Asia"
         />
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
@@ -51,7 +51,7 @@ export default function About() {
                         <UserCheck className="w-4 h-4 text-cyan-400" />
                       </h3>
                       <p className="text-xs sm:text-sm font-mono text-cyan-300">
-                        {profileData.role} • TDT ASIA
+                        {profileData.fullName} • {profileData.role}
                       </p>
                     </div>
                   </div>

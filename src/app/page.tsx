@@ -32,6 +32,7 @@ const SECTION_IDS = [
   "skills",
   "projects",
   "journey",
+  "ai-tools",
   "contact",
 ];
 

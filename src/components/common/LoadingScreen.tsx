@@ -92,7 +92,7 @@ export default function LoadingScreen({ onComplete }: LoadingScreenProps) {
                 Initiating System Link
               </p>
               <h2 className="text-xl md:text-2xl font-bold tracking-tight bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
-                Entering Chinh&apos;s Universe...
+                Entering ChinhKhong.dev Universe...
               </h2>
             </div>
 
@@ -105,7 +105,7 @@ export default function LoadingScreen({ onComplete }: LoadingScreenProps) {
                 />
               </div>
               <div className="flex justify-between items-center text-[11px] font-mono text-slate-400">
-                <span>SECTOR: 0xCHINH</span>
+                <span>SECTOR: 0xCHINHKHONG</span>
                 <span className="text-cyan-400 font-semibold">{progress}%</span>
               </div>
             </div>
